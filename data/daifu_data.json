@@ -1,0 +1,24 @@
+{"luodi_company_null":
+    {"luodi_company_null":
+        {"daifa_count": "1", "daifa_amt": "10000", "code": "8888", "password": "123456", "daifa_file": "C:\\Users\\Administrator\\Desktop\\daifujilu (1).xlsx"}
+    },
+"daifu_fail":
+    {"daifa_count_null":
+        {"daifa_count": "", "daifa_amt": "10000", "code": "8888", "password": "123456", "daifa_file": "C:\\Users\\Administrator\\Desktop\\daifujilu (1).xlsx"},
+    "daifa_amt_null":
+        {"daifa_count": "1", "daifa_amt": "", "code": "8888", "password": "123456", "daifa_file": "C:\\Users\\Administrator\\Desktop\\daifujilu (1).xlsx"},
+    "daifa_code_null":
+        {"daifa_count": "1", "daifa_amt": "10000", "code": "", "password": "123456", "daifa_file": "C:\\Users\\Administrator\\Desktop\\daifujilu (1).xlsx"},
+    "daifa_password_null":
+        {"daifa_count": "1", "daifa_amt": "10000", "code": "8888", "password": "", "daifa_file": "C:\\Users\\Administrator\\Desktop\\daifujilu (1).xlsx"}
+    },
+"daifu_file_null":
+    {"luodi_file_null":
+        {"daifa_count": "1", "daifa_amt": "10000", "code": "8888", "password": "123456"}
+    },
+"daifu_success":
+    {"daifu_success":
+        {"daifa_count": "1", "daifa_amt": "10000", "code": "8888", "password": "123456", "daifa_file": "C:\\Users\\Administrator\\Desktop\\daifujilu (1).xlsx"}
+    }
+
+}

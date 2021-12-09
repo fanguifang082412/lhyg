@@ -1,0 +1,18 @@
+{"login_fail":
+  {"username_error":
+     {"username": "一点通股份有限公司1","password": "123456","code": "8888"},
+    "username_null":
+     {"username": "一点通股份有限公司","password": "","code": "8888"},
+    "password_error":
+     {"username": "一点通股份有限公司","password": "12345","code": "8888"},
+    "password_null":
+     {"username": "一点通股份有限公司","password": "","code": "8888"},
+    "code_null":
+     {"username": "一点通股份有限公司","password": "123456","code": ""}
+  },
+
+"login_success":
+  {"login_success_01":
+     {"username": "一点通股份有限公司","password": "123456","code": "8888"}
+  }
+}

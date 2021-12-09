@@ -1,0 +1,15 @@
+{"recharge_success":
+    {"recharge_success_01":
+      {"recharge_amt": "100", "recharge_url": "C:\\Users\\Administrator\\Desktop\\image\\1.png", "assert_text": "充值申请成功！"}
+    },
+"recharge_fail_01":
+    {"recharge_image_null":
+      {"recharge_amt": "100", "assert_text": "凭证为空"}
+    },
+"recharge_fail_02":
+    {"recharge_amt_null":
+      {"recharge_amt": "", "recharge_url": "C:\\Users\\Administrator\\Desktop\\image\\1.png"},
+     "recharge_amt_error":
+      {"recharge_amt": "100yuan", "recharge_url": "C:\\Users\\Administrator\\Desktop\\image\\1.png"}
+    }
+}
